@@ -7,3 +7,6 @@
 #### This is a `<h4>` header
 ##### This is a `<h5>` header
 ###### This is a `<h6>` header
+
+## Activity: Adding an image
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
